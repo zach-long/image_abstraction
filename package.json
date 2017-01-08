@@ -1,0 +1,25 @@
+{
+  "name": "image_abstraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zach-long/image_abstraction.git"
+  },
+  "author": "Zachary Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zach-long/image_abstraction/issues"
+  },
+  "homepage": "https://github.com/zach-long/image_abstraction#readme"
+}
